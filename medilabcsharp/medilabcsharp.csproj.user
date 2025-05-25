@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddMedicalDocumentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddMedicalRecordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminDocter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AvailabilityDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="doctorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenerateInvoiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageDoctorAvailabilitiesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicalRecordFormP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientMedicalRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScheduleAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secretaryDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WhoAreYou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

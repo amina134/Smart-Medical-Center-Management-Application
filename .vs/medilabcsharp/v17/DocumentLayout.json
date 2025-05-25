@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\generateinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\generateinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\generateinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\generateinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\scheduleappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\scheduleappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\scheduleappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\scheduleappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\newappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\newappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretarydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\secretarydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretarydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\secretarydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\newappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\newappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\addmedicalrecordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\addmedicalrecordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\addmedicaldocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\addmedicaldocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\admindocter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\admindocter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\availabilitydialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\availabilitydialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\managedoctoravailabilitiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\managedoctoravailabilitiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\medicalrecordformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\medicalrecordformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\medicalrecordformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\medicalrecordformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\doctordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\doctordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\managedoctoravailabilitiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\managedoctoravailabilitiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\admindocter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\admindocter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\doctordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretarydashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\secretarydashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|c:\\users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB9951A-AB84-4CB3-A62A-BC5BB76DADDA}|medilabcsharp\\medilabcsharp.csproj|solutionrelative:medilabcsharp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateAppointmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\UpdateAppointmentForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\UpdateAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\UpdateAppointmentForm.cs",
+              "RelativeToolTip": "medilabcsharp\\UpdateAppointmentForm.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAewCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:13:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateAppointmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\UpdateAppointmentForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\UpdateAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\UpdateAppointmentForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\UpdateAppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:13:06.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScheduleAppointmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ScheduleAppointmentForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\ScheduleAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ScheduleAppointmentForm.cs",
+              "RelativeToolTip": "medilabcsharp\\ScheduleAppointmentForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAewI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:09:41.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScheduleAppointmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ScheduleAppointmentForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\ScheduleAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ScheduleAppointmentForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\ScheduleAppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:09:34.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "secretaryDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretaryDashboard.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\secretaryDashboard.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretaryDashboard.cs",
+              "RelativeToolTip": "medilabcsharp\\secretaryDashboard.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:07:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\App.config",
+              "RelativeDocumentMoniker": "medilabcsharp\\App.config",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\App.config",
+              "RelativeToolTip": "medilabcsharp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-26T21:55:23.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewAppointmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\NewAppointmentForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\NewAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\NewAppointmentForm.cs",
+              "RelativeToolTip": "medilabcsharp\\NewAppointmentForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:53:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewAppointmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\NewAppointmentForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\NewAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\NewAppointmentForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\NewAppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:53:24.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddMedicalRecordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\AddMedicalRecordForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\AddMedicalRecordForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\AddMedicalRecordForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\AddMedicalRecordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:49:59.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddMedicalDocumentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\AddMedicalDocumentForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\AddMedicalDocumentForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\AddMedicalDocumentForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\AddMedicalDocumentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:49:56.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AvailabilityDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\AvailabilityDialog.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\AvailabilityDialog.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\AvailabilityDialog.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\AvailabilityDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:49:47.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicalRecordFormP.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\MedicalRecordFormP.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\MedicalRecordFormP.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\MedicalRecordFormP.cs",
+              "RelativeToolTip": "medilabcsharp\\MedicalRecordFormP.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:48:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MedicalRecordFormP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\MedicalRecordFormP.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\MedicalRecordFormP.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\MedicalRecordFormP.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\MedicalRecordFormP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:48:36.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "patientDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\patientDashboard.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\patientDashboard.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\patientDashboard.cs",
+              "RelativeToolTip": "medilabcsharp\\patientDashboard.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwHwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:48:18.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "patientDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\patientDashboard.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\patientDashboard.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\patientDashboard.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\patientDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:48:14.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "doctorDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctorDashboard.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\doctorDashboard.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctorDashboard.cs",
+              "RelativeToolTip": "medilabcsharp\\doctorDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:12:39.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\StatisticsForm.cs",
+              "RelativeToolTip": "medilabcsharp\\StatisticsForm.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:05:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StatisticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\StatisticsForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\StatisticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:05:31.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageDoctorAvailabilitiesForm.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ManageDoctorAvailabilitiesForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\ManageDoctorAvailabilitiesForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ManageDoctorAvailabilitiesForm.cs",
+              "RelativeToolTip": "medilabcsharp\\ManageDoctorAvailabilitiesForm.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:53:05.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageDoctorAvailabilitiesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ManageDoctorAvailabilitiesForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\ManageDoctorAvailabilitiesForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\ManageDoctorAvailabilitiesForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\ManageDoctorAvailabilitiesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:53:01.235Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "adminDocter.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDocter.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\adminDocter.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDocter.cs",
+              "RelativeToolTip": "medilabcsharp\\adminDocter.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:44:53.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminDocter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDocter.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\adminDocter.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDocter.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\adminDocter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:44:48.541Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\loginForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginForm.cs",
+              "RelativeToolTip": "medilabcsharp\\loginForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:32:22.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateInvoiceForm.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\GenerateInvoiceForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\GenerateInvoiceForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\GenerateInvoiceForm.cs",
+              "RelativeToolTip": "medilabcsharp\\GenerateInvoiceForm.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAmwAcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:14:55.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerateInvoiceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\GenerateInvoiceForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\GenerateInvoiceForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\GenerateInvoiceForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\GenerateInvoiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:14:53.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "loginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginForm.Designer.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\loginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginForm.Designer.cs",
+              "RelativeToolTip": "medilabcsharp\\loginForm.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAlwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:33:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginForm.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\loginForm.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\loginForm.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\loginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:32:19.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "secretaryDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretaryDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\secretaryDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretaryDashboard.Designer.cs",
+              "RelativeToolTip": "medilabcsharp\\secretaryDashboard.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:00:52.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "secretaryDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretaryDashboard.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\secretaryDashboard.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\secretaryDashboard.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\secretaryDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:00:42.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "doctorDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctorDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\doctorDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctorDashboard.Designer.cs",
+              "RelativeToolTip": "medilabcsharp\\doctorDashboard.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAGAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:48:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "doctorDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctorDashboard.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\doctorDashboard.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\doctorDashboard.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\doctorDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:48:18.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "adminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\adminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDashboard.Designer.cs",
+              "RelativeToolTip": "medilabcsharp\\adminDashboard.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAG0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:48:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "adminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDashboard.cs",
+              "RelativeDocumentMoniker": "medilabcsharp\\adminDashboard.cs",
+              "ToolTip": "C:\\Users\\kouni_tg\\source\\repos\\medilabcsharp\\medilabcsharp\\adminDashboard.cs [Design]",
+              "RelativeToolTip": "medilabcsharp\\adminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:54:20.576Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

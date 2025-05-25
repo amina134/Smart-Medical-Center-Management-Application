@@ -1,0 +1,6 @@
+C:\Users\kouni_tg\source\repos\medilabcsharp\medilabcsharp\obj\Debug\net6.0-windows7.0\medilabcsharp.loginForm.resources
+C:\Users\kouni_tg\source\repos\medilabcsharp\medilabcsharp\obj\Debug\net6.0-windows7.0\medilabcsharp.csproj.GenerateResource.cache
+C:\Users\kouni_tg\source\repos\medilabcsharp\medilabcsharp\obj\Debug\net6.0-windows7.0\medilabcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kouni_tg\source\repos\medilabcsharp\medilabcsharp\obj\Debug\net6.0-windows7.0\medilabcsharp.AssemblyInfoInputs.cache
+C:\Users\kouni_tg\source\repos\medilabcsharp\medilabcsharp\obj\Debug\net6.0-windows7.0\medilabcsharp.AssemblyInfo.cs
+C:\Users\kouni_tg\source\repos\medilabcsharp\medilabcsharp\obj\Debug\net6.0-windows7.0\medilabcsharp.csproj.CoreCompileInputs.cache
